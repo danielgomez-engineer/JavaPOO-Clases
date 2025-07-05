@@ -14,9 +14,6 @@ En este proyecto se crea una clase `Libro` con los siguientes elementos:
   - Getters y setters
   - `obtenerPrecioConIVA()`
   - `actualizarPrecio()`
-  - `prestarLibro()`
-  - `devolverLibro()`
-
 Desde la clase `Main`, se crean objetos de tipo `Libro` y se prueban sus métodos.
 
 ---

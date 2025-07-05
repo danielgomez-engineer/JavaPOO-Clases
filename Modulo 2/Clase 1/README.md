@@ -18,7 +18,7 @@
 - Encapsulamiento y modificadores de acceso (`private`, `public`)
 - Métodos `get` y `set`
 - Creación de objetos en la clase `Main`
-- Métodos adicionales: `obtenerPrecioConIVA()`, `prestarLibro()`, etc.
+- Métodos adicionales: `obtenerPrecioConIVA()`, etc.
 
 ---
 
